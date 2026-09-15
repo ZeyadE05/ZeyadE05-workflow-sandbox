@@ -3,3 +3,9 @@ TEAM NOTES
 Repository changes should be focused and independently reviewable.
 Shared files should remain understandable without relying on local context.
 Contributors should work through feature branches.
+
+REVIEW GUIDELINES
+- Read the changed files.
+- Check the scope.
+- Confirm CI passes.
+- Request changes when necessary.
